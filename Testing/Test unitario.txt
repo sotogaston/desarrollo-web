@@ -1,2 +1,9 @@
 Caso de prueba numero uno
 Test unitario creado por desarrollo
+
+Caso 1 pruebas unitarias
+
+caso 2 regresion
+
+nuevo caso 3 
+resultaro obtenido OK 
